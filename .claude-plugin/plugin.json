@@ -1,1 +1,10 @@
-
+{
+  "name": "hunt-ladder",
+  "displayName": "Hunt Ladder",
+  "version": "1.0.0",
+  "description": "AI skill for Hunt Ladder methodology",
+  "author": {
+    "name": "ma-horoshaya"
+  },
+  "repository": "https://github.com/ma-horoshaya/hunt_ladder"
+}
