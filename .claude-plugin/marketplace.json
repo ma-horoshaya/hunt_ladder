@@ -1,0 +1,13 @@
+{
+  "name": "ma-horoshaya-skills",
+  "owner": {
+    "name": "ma-horoshaya"
+  },
+  "plugins": [
+    {
+      "name": "hunt-ladder",
+      "description": "Hunt Ladder skill",
+      "source": "./"
+    }
+  ]
+}
